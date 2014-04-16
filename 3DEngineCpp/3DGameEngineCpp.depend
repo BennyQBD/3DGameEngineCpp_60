@@ -498,18 +498,22 @@
 1396656876 source:/home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/math3d.cpp
 	"math3d.h"
 
-1396656876 source:/home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/mesh.cpp
+1397667325 source:/home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/mesh.cpp
 	"mesh.h"
 	<GL/glew.h>
-	"obj_loader.h"
 	<iostream>
+	<vector>
+	<cassert>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
 
-1396656876 /home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/obj_loader.h
+1397331467 /home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/obj_loader.h
 	"math3d.h"
 	<vector>
 	<string>
 
-1396656876 source:/home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/obj_loader.cpp
+1397331469 source:/home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/obj_loader.cpp
 	"obj_loader.h"
 	<fstream>
 	<iostream>
@@ -554,7 +558,7 @@
 1396656876 /home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/stb_image.h
 	<stdio.h>
 
-1396656876 source:/home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/texture.cpp
+1397330799 source:/home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/texture.cpp
 	"texture.h"
 	"stb_image.h"
 	<iostream>
