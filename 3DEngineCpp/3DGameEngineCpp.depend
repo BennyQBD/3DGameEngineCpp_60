@@ -328,16 +328,16 @@
 	"gameComponent.h"
 	"input.h"
 
-1396656876 source:/home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/camera.cpp
+1398005579 source:/home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/camera.cpp
 	"camera.h"
 	"renderingEngine.h"
 	"coreEngine.h"
 
-1396656876 /home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/camera.h
+1398005534 /home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/camera.h
 	"math3d.h"
 	"gameComponent.h"
 
-1396656876 /home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/math3d.h
+1398006243 /home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/math3d.h
 	<math.h>
 
 1396656876 /home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/gameComponent.h
@@ -465,7 +465,7 @@
 	"lighting.h"
 	"transform.h"
 
-1396656876 source:/home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/main.cpp
+1398006277 source:/home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/main.cpp
 	"3DEngine.h"
 	"freeLook.h"
 	"freeMove.h"
@@ -520,7 +520,7 @@
 	<algorithm>
 	<map>
 
-1396656876 source:/home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/renderingEngine.cpp
+1398006285 source:/home/batman/Workspaces/C Workspaces/3DGameEngineCpp_60/3DEngineCpp/renderingEngine.cpp
 	"renderingEngine.h"
 	"window.h"
 	"gameObject.h"
